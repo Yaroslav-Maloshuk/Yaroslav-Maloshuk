@@ -6,3 +6,10 @@ I'm Yaroslav Maloshuk a Junior Machine Learning Engineer with more than 1 year o
 
 ![Static Badge](https://img.shields.io/badge/Yaroslav%20Maloshuk-blue?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyaroslav-maloshuk-867161225%2F
 )
+![Static Badge](https://img.shields.io/badge/Yaroslav%20Maloshuk-red?style=flat&logo=gmail&logoColor=white&link=mailto%3Ayaroslavmaloshuk%40gmail.com)
+Top Technologies
+Python Pandas Numpy Matplotlib Seaborn
+### Business
+- 📎 My Resume
+- 📧 yaroslavmaloshuk@gmail.com
+
