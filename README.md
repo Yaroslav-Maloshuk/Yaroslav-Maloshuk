@@ -11,7 +11,7 @@ I'm Yaroslav Maloshuk a Junior Machine Learning Engineer with more than 1 year o
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-yellow?style=for-the-badge&logo=pandas&logoColor=%2308063b&labelColor=white&color=%2308063b)
 ### Business
-- 📎 My Resume
+- 📎 My Resume (NOT EXISTED FOR A WHILE!)
 - 📧 yaroslavmaloshuk@gmail.com
   
 
