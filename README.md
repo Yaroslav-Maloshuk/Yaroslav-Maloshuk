@@ -9,8 +9,12 @@ I'm Yaroslav Maloshuk a Junior Machine Learning Engineer with more than 1 year o
 ![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue&labelColor=black&color=blue) 
 ![Skype Badge](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=blue&labelColor=black&color=blue&link=live%3Amaloyarl)
 
-### Top Technologies
+### QA
 ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=%230052CC&labelColor=black&color=%230052CC)
+![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=Html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
+### Machine Learning
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=Pandas&logoColor=%23150458&labelColor=white&color=%23150458)
 ![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=Numpy&logoColor=%23013243&labelColor=white&color=%23013243)
