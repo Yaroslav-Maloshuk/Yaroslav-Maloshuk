@@ -11,7 +11,7 @@ I'm Yaroslav Maloshuk a Junior Machine Learning Engineer with more than 1 year o
 
 ### Top Technologies
 ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=%230052CC&labelColor=black&color=%230052CC)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=yellow](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=%233776AB&labelColor=black&color=%233776AB)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=Pandas&logoColor=%23150458&labelColor=white&color=%23150458)
 ![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=Numpy&logoColor=%23013243&labelColor=white&color=%23013243)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00&labelColor=black&color=%23FF6F00)
