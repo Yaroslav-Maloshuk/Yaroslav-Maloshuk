@@ -1,6 +1,6 @@
 ### Hi, I'm Yaroslav 👋
 
-I'm Yaroslav Maloshuk a Junior Machine Learning Engineer with more than 1 year of experience. Experienced both in Front-end and Back-end technologies. 
+I'm Yaroslav Maloshuk a Junior QA Manual Engineer with more than 3 months of experience. Experienced both in Front-end and Back-end technologies. 
 
 📫 Reach me out!
 
