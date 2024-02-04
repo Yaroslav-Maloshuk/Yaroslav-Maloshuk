@@ -20,7 +20,7 @@ I'm Yaroslav Maloshuk a Junior Machine Learning Engineer with more than 1 year o
 ![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=Numpy&logoColor=%23013243&labelColor=white&color=%23013243)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00&labelColor=black&color=%23FF6F00)
 ### Business
-- 📎 My Resume (NOT EXISTED FOR A WHILE!)
+- 📎 ![My Resume](https://docs.google.com/document/d/1GdjO9rfawxx1dXq9qXfEKiLFHpBbTpFyCZK393zdYYg/edit?usp=sharing)
 - 📧 yaroslavmaloshuk@gmail.com
   
 
