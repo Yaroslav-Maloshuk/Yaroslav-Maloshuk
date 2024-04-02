@@ -9,16 +9,32 @@ I'm Yaroslav Maloshuk a Junior QA Manual Engineer with 1 year of experience. Exp
 ![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue&labelColor=black&color=blue) 
 ![Skype Badge](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=blue&labelColor=black&color=blue&link=live%3Amaloyarl)
 
-### QA
-![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=%230052CC&labelColor=black&color=%230052CC)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=Html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
-![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
-### Machine Learning
+### Blockchain (I am learning now)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### Machine Learning (I am learning TensorFlow now)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=Pandas&logoColor=%23150458&labelColor=white&color=%23150458)
 ![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=Numpy&logoColor=%23013243&labelColor=white&color=%23013243)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00&labelColor=black&color=%23FF6F00)
+### Telegram Bots
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=yellow)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+### QA
+![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=%230052CC&labelColor=black&color=%230052CC)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=Html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
+### Web Development (I am learning React now)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=Html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
+![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+### Other (I am learning now)
+![Docker]()
+![Kubernetes]()
 ### Business
 - 📎 ![My Resume](https://docs.google.com/document/d/1GdjO9rfawxx1dXq9qXfEKiLFHpBbTpFyCZK393zdYYg/edit?usp=sharing)
 - 📧 yaroslavmaloshuk@gmail.com
