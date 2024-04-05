@@ -39,7 +39,7 @@ I am Yaroslav Maloshuk a Junior QA Manual Engineer with 1 year of experience. Ex
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=black&color=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=docker&logoColor=326CE5&labelColor=black&color=326CE5)
 ### Business
-- 📎 ![My Resume](https://docs.google.com/document/d/1GdjO9rfawxx1dXq9qXfEKiLFHpBbTpFyCZK393zdYYg/edit?usp=sharing)
+- 📎 ![My Resume]([https://docs.google.com/document/d/1GdjO9rfawxx1dXq9qXfEKiLFHpBbTpFyCZK393zdYYg/edit?usp=sharing](https://docs.google.com/document/d/1GdjO9rfawxx1dXq9qXfEKiLFHpBbTpFyCZK393zdYYg/edit?usp=sharing))
 - 📧 yaroslavmaloshuk@gmail.com
   
 
