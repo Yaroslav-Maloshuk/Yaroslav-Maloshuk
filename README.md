@@ -21,7 +21,7 @@ I am Yaroslav Maloshuk a Junior QA Manual Engineer with 1 year of experience. Ex
 ![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=Numpy&logoColor=%23013243&labelColor=white&color=%23013243)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00&labelColor=black&color=%23FF6F00)
 ### Software Development (I am learning now)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C%2B%2B&logoColor=blue&labelColor=black&color=blue)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=00599C&labelColor=black&color=00599C)
 ### Telegram Bots
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=yellow)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black&color=003B57)
