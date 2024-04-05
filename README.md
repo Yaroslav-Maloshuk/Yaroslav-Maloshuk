@@ -8,7 +8,7 @@ I'm Yaroslav Maloshuk a Junior QA Manual Engineer with 1 year of experience. Exp
 ![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=black&color=blue)
 ![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue&labelColor=black&color=blue) 
 ![Viber Badge](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=7360F2&labelColor=black&color=7360F2)
-![Skype Badge](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=blue&labelColor=black&color=blue&link=live%3Amaloyarl)
+![Skype Badge](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=00AFF0&labelColor=black&color=00AFF0)
 
 ### Blockchain (I am learning now)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&color=orange)
