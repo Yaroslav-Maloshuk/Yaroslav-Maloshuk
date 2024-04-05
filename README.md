@@ -16,7 +16,7 @@ I am Yaroslav Maloshuk a Junior QA Manual Engineer with 1 year of experience. Ex
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=59666C&labelColor=black&color=59666C)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=black&color=47A248)
 ### Machine Learning (I am learning TensorFlow now)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=yellow)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=black&color=yellow)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white&labelColor=black&color=150458)
 ![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=Numpy&logoColor=%23013243&labelColor=white&color=%23013243)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00&labelColor=black&color=%23FF6F00)
