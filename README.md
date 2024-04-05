@@ -34,10 +34,10 @@ I am Yaroslav Maloshuk a Junior QA Manual Engineer with 1 year of experience. Ex
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=Html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=JavaScript&logoColor=61DAFB&labelColor=black&color=61DAFB)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=black&color=61DAFB)
 ### Other (I am learning now)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=black&color=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=docker&logoColor=326CE5&labelColor=black&color=326CE5)
 ### Business
 - 📎 ![My Resume](https://docs.google.com/document/d/1GdjO9rfawxx1dXq9qXfEKiLFHpBbTpFyCZK393zdYYg/edit?usp=sharing)
 - 📧 yaroslavmaloshuk@gmail.com
