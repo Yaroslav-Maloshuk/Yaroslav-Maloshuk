@@ -1,6 +1,6 @@
 ### Hi, I am Yaroslav 👋
 
-I am Yaroslav Maloshuk a Junior QA Manual Engineer with 1 year of experience. Experienced both in Frontend and Backend technologies. 
+I am Yaroslav Maloshuk a Junior C++ Software Engineer with 1 year of experience. Experienced both in Frontend and Backend technologies. 
 
 📫 Reach me out!
 
