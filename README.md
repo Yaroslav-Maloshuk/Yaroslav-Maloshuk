@@ -1,6 +1,6 @@
 ### Hi, I am Yaroslav 👋
 
-I am Yaroslav Maloshuk a Junior QA Manual Engineer with 1 year of experience. Experienced both in Front-end and Back-end technologies. 
+I am Yaroslav Maloshuk a Junior QA Manual Engineer with 1 year of experience. Experienced both in Frontend and Backend technologies. 
 
 📫 Reach me out!
 
