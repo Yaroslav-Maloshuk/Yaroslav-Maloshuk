@@ -31,7 +31,7 @@ I am Yaroslav Maloshuk a Junior QA Manual Engineer with 1 year of experience. Ex
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
 
 ### Business
-- 📎 My Resume: https://docs.google.com/document/d/1GdjO9rfawxx1dXq9qXfEKiLFHpBbTpFyCZK393zdYYg/edit?usp=sharing
+- 📎 My Resume: https://docs.google.com/document/d/1aYy4V0eoN_xg9-GhQpytsIfBYXdY03uHgQmIy2kb1Ys/edit?usp=sharing
 - 📧 yaroslavmaloshuk@gmail.com
   
 
