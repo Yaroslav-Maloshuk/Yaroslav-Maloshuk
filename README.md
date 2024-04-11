@@ -31,7 +31,7 @@ I am Yaroslav Maloshuk a Junior C++ Software Engineer with 1 year of experience.
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
 
 ### Business
-- 📎 My Resume: https://docs.google.com/document/d/1aYy4V0eoN_xg9-GhQpytsIfBYXdY03uHgQmIy2kb1Ys/edit?usp=sharing
+- 📎 My Resume: https://docs.google.com/document/d/15WojhNe3ssEgX5gSDke_Hp2PN6BtA_ZHeXGl8ZWDqrE/edit?usp=drive_link
 - 📧 yaroslavmaloshuk@gmail.com
   
 
