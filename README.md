@@ -1,6 +1,6 @@
 ### Hi, I am Yaroslav 👋
 
-I am Yaroslav Maloshuk a Junior C++ Software Engineer with 1 year of experience. Experienced both in Frontend and Backend technologies. 
+I am Yaroslav Maloshuk a Junior Java Software Developer with 1 year of experience. Experienced both in Frontend and Backend technologies. 
 
 📫 Reach me out!
 
@@ -15,8 +15,10 @@ I am Yaroslav Maloshuk a Junior C++ Software Engineer with 1 year of experience.
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white&labelColor=black&color=150458)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white&labelColor=black&color=013243)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00&labelColor=black&color=%23FF6F00)
-### Software Development 
+### C++ Software Development 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=00599C&labelColor=black&color=00599C)
+### Java Software Development 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ### Telegram Bots
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=black&color=yellow)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=black&color=003B57)
