@@ -32,8 +32,8 @@ I am Yaroslav Maloshuk a Junior Java Software Developer with 1 year of experienc
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
 
 ### Business
-- 📎 My Resume (Java Software Developer): https://drive.google.com/file/d/1j63XUvlZvO6LFcp3c-30GpVP65OLNjuB/view?usp=sharing
-- 📎 My Resume (QA Engineer): https://drive.google.com/file/d/1459ZdY_FBUbkgDxBGDQVJ_V-KatHtY1n/view?usp=sharing
+- 📎 My Resume (Java Software Developer): https://drive.google.com/file/d/1aJXtyGGIyQIL-rAhF5OHWmiFkIN9nH9I/view?usp=sharing
+- 📎 My Resume (QA Engineer): https://drive.google.com/file/d/1bd5pvyHOqha5DVYsX_We79PXSxgONQA6/view?usp=sharing
 - 📧 yaroslavmaloshuk@gmail.com
   
 
