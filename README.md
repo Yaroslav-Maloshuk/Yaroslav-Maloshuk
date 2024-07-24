@@ -23,7 +23,7 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Trello](https://shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=blue&labelColor=black&color=blue)
 ![TestRail](https://img.shields.io/badge/TestRail-blue?style=for-the-badge&logo=TestRail&logoColor=blue&labelColor=black&color=blue)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=black&color=FF6C37)
-![Swagger](https://img.shields.io/badge/open--API-in--editor-brightgreen.svg?style=for-the-badgelabel=Swagger)
+![Swagger](https://img.shields.io/badge/Swagger.svg?style=for-the-badgelabel=Swagger)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=Html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
