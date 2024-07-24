@@ -23,14 +23,15 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Trello](https://shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=blue&labelColor=black&color=blue)
 ![TestRail](https://img.shields.io/badge/TestRail-020F0D?style=for-the-badge&logo=TestRail&logoColor=020F0D&labelColor=black&color=020F0D)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=black&color=FF6C37)
-[![swagger-editor](https://img.shields.io/badge/open--API-in--editor-brightgreen.svg?style=flat&label=client%20open-api-v3)
-Charles
-ADB
+![Swagger](https://img.shields.io/badge/open--API-in--editor-brightgreen.svg?style=flat&label=client%20open-api-v3)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-Methodologies: Agile/Scrum
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=Html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
+Charles
+ADB
+AGILE
+SCRUM
 ### Telegram Bots (2023.02 - 2023.09.16)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=black&color=yellow)
 ![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=black&color=003B57)
