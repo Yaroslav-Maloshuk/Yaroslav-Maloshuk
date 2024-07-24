@@ -1,6 +1,6 @@
 ### Hi, I am Yaroslav 👋
 
-I am Yaroslav Maloshuk a Junior Java Software Developer with 1 year of experience. Experienced both in Frontend and Backend technologies. 
+I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technologies. 
 
 📫 Reach me out!
 
