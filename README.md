@@ -30,10 +30,5 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=Html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
 ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E&labelColor=black&color=%23F7DF1E)
-
-### Business
-- 📎 My Resume (Java Software Developer): https://drive.google.com/file/d/1aJXtyGGIyQIL-rAhF5OHWmiFkIN9nH9I/view?usp=sharing
-- 📎 My Resume (QA Engineer): https://drive.google.com/file/d/1bd5pvyHOqha5DVYsX_We79PXSxgONQA6/view?usp=sharing
-- 📧 yaroslavmaloshuk@gmail.com
   
 
