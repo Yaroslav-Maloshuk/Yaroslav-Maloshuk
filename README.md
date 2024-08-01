@@ -10,11 +10,6 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=black&color=26A5E4) 
 ![Viber Badge](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=7360F2&labelColor=black&color=7360F2)
 
-### Machine Learning (2023.09.16 - 2024.03.31) 
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=black&color=yellow)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white&labelColor=black&color=150458)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white&labelColor=black&color=013243)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=TensorFlow&logoColor=%23FF6F00&labelColor=black&color=%23FF6F00)
 ### QA (2023.11.18 - Present)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=black&color=0052CC)
 ![Trello](https://shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=blue&labelColor=black&color=blue)
