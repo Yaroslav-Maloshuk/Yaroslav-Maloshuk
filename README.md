@@ -23,7 +23,7 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![XCode](https://img.shields.io/badge/XCode-007ACC?style=for-the-badge&logo=Xcode&logoColor=007ACC&labelColor=black&color=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=for-the-badge&logo=postgresql&logoColor=3670A0&labelColor=black&color=3670A0)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=07405E&labelColor=black&color=07405E)
-![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=white&color=100000](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white))
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=black&color=3670A0)
 ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=D22128&labelColor=black&color=D22128)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=43B02A&labelColor=black&color=43B02A)
