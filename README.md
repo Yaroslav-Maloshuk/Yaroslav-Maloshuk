@@ -20,5 +20,7 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![XCode](https://img.shields.io/badge/XCode-007ACC?style=for-the-badge&logo=Xcode&logoColor=007ACC&labelColor=black&color=007ACC)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=Html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=%231572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=black&color=F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=black&color=3670A0)
   
 
