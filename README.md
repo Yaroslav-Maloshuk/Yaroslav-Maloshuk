@@ -18,6 +18,8 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=85EA2D&labelColor=black&color=85EA2D)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=346ac1&labelColor=black&color=346ac1)
 ![XCode](https://img.shields.io/badge/XCode-007ACC?style=for-the-badge&logo=Xcode&logoColor=007ACC&labelColor=black&color=007ACC)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=07405E&labelColor=black&color=07405E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=for-the-badge&logo=postgresql&logoColor=3670A0&labelColor=black&color=3670A0)
 ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=D22128&labelColor=black&color=D22128)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=25A162&labelColor=black&color=25A162)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=Html5&logoColor=%23E34F26&labelColor=black&color=%23E34F26)
