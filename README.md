@@ -10,7 +10,7 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=black&color=26A5E4) 
 ![Viber Badge](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=7360F2&labelColor=black&color=7360F2)
 
-### QA (2023.11.18 - Present)
+### QA Manual & Automation (2023.11.18 - Present)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=black&color=0052CC)
 ![Trello](https://shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=blue&labelColor=black&color=blue)
 ![TestRail](https://img.shields.io/badge/TestRail-blue?style=for-the-badge&logo=TestRail&logoColor=blue&labelColor=black&color=blue)
