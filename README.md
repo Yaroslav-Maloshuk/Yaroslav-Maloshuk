@@ -29,5 +29,5 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=43B02A&labelColor=black&color=43B02A)
 ![Charles](https://img.shields.io/badge/Charles-F3F5F5?style=for-the-badge&logo=charles&logoColor=F3F5F5&labelColor=black&color=F3F5F5)
 
-  
-
+### Python (2022 - Present) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=black&color=3670A0)
