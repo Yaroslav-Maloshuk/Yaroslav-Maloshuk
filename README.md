@@ -32,3 +32,15 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 
 ### Python (2022 - Present) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=black&color=3670A0)
+
+### I AM LEARNING (PRESENT)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=black&color=092E20)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=000000&labelColor=white&color=000000)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=005571&labelColor=black&color=005571)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=black&color=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5&style=for-the-badge&logo=kubernetes&logoColor=fff)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545&style=for-the-badge&logo=mariadb&logoColor=003545&labelColor=black&color=003545)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1&style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black&color=4479A1)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=37814A&labelColor=black&color=37814A)
