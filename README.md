@@ -42,5 +42,5 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=black&color=326CE5)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=003545&labelColor=black&color=003545)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black&color=4479A1)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?&style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=black&color=DC382D)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=37814A&labelColor=black&color=37814A)
