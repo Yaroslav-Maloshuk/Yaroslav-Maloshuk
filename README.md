@@ -36,7 +36,7 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 
 ### I AM LEARNING (PRESENT)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=black&color=092E20)
-![Flask](https://img.shields.io/badge/Flask-DC382D?style=for-the-badge&logo=Flask&logoColor=DC382D&labelColor=black&color=DC382D)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white&labelColor=black&color=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=005571&labelColor=black&color=005571)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=black&color=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=black&color=326CE5)
