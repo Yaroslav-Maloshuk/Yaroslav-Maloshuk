@@ -1,9 +1,7 @@
 ### Hi, I am Yaroslav 👋
-
 I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technologies. 
 
 📫 Reach me out!
-
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=black&color=EA4335)
 ![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=black&color=0A66C2)
 ![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=00AFF0&labelColor=black&color=00AFF0)
@@ -35,6 +33,11 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?&style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=black&color=4DB33D)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black&color=4479A1)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?&style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=black&color=DC382D)
+
+## Other
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black&color=F24E1E)
+![Tilda](https://img.shields.io/badge/-Tilda Publishing-FFA282?style=for-the-badge&logo=tildapublishing&logoColor=FFA282&labelColor=black&color=FFA282)
+![Wordpress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=black&color=21759B)
 
 ### I AM LEARNING (PRESENT)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=black&color=092E20)
