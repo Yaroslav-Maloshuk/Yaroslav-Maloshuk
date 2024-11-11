@@ -2,6 +2,7 @@
 I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technologies. 
 
 📫 Reach me out!
+
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=black&color=EA4335)
 ![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=black&color=0A66C2)
 ![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=00AFF0&labelColor=black&color=00AFF0)
@@ -10,6 +11,7 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=black&color=25D366)
 
 ### QA Manual & Automation (2023.11.18 - Present)
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=black&color=0052CC)
 ![Trello](https://shields.io/badge/Trello-blue?style=for-the-badge&logo=Trello&logoColor=blue&labelColor=black&color=blue)
 ![TestRail](https://img.shields.io/badge/TestRail-blue?style=for-the-badge&logo=TestRail&logoColor=blue&labelColor=black&color=blue)
@@ -29,6 +31,7 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Charles](https://img.shields.io/badge/Charles-F3F5F5?style=for-the-badge&logo=charles&logoColor=F3F5F5&labelColor=black&color=F3F5F5)
 
 ### Python (2022 - Present) 
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=black&color=3670A0)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?&style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=black&color=4DB33D)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black&color=4479A1)
@@ -36,8 +39,9 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=37814A&labelColor=black&color=37814A)
 
 ## Other
+
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black&color=F24E1E)
-![Tilda](https://img.shields.io/badge/-TildaPublishing-FFA282?style=for-the-badge&logo=tildapublishing&logoColor=FFA282&labelColor=black&color=FFA282)
+![Tilda](https://img.shields.io/badge/-TildaPublishing-FFA282?style=for-the-badge&logo=tilda&logoColor=FFA282&labelColor=black&color=FFA282)
 ![Wordpress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=black&color=21759B)
 
 ### I AM LEARNING (PRESENT)
