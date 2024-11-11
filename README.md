@@ -41,7 +41,7 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ## Other
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black&color=F24E1E)
-![Tilda](https://img.shields.io/badge/-TildaPublishing-FFA282?style=for-the-badge&logo=tilda&logoColor=FFA282&labelColor=black&color=FFA282)
+![Tilda](https://img.shields.io/badge/-Tilda-FFA282?style=for-the-badge&logo=tilda&logoColor=FFA282&labelColor=black&color=FFA282)
 ![Wordpress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=black&color=21759B)
 
 ### I AM LEARNING (PRESENT)
