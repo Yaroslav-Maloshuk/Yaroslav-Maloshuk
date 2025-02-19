@@ -23,7 +23,6 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=346ac1&labelColor=black&color=346ac1)
 ![XCode](https://img.shields.io/badge/XCode-007ACC?style=for-the-badge&logo=Xcode&logoColor=007ACC&labelColor=black&color=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=for-the-badge&logo=postgresql&logoColor=3670A0&labelColor=black&color=3670A0)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=07405E&labelColor=black&color=07405E)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=100000&labelColor=black&color=100000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=black&color=3670A0)
 ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=D22128&labelColor=black&color=D22128)
@@ -31,22 +30,13 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Charles](https://img.shields.io/badge/Charles-F3F5F5?style=for-the-badge&logo=charles&logoColor=F3F5F5&labelColor=black&color=F3F5F5)
 
 ### Python (2022 - Present) 
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=black&color=3670A0)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=black&color=092E20)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?&style=for-the-badge&logo=mongodb&logoColor=4DB33D&labelColor=black&color=4DB33D)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black&color=4479A1)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?&style=for-the-badge&logo=redis&logoColor=DC382D&labelColor=black&color=DC382D)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=for-the-badge&logo=celery&logoColor=37814A&labelColor=black&color=37814A)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=black&color=2496ED)
 
 ## Other
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=black&color=F24E1E)
 ![Tilda](https://img.shields.io/badge/-Tilda-FFA282?style=for-the-badge&logo=tildapublishing&logoColor=FFA282&labelColor=black&color=FFA282)
 ![Wordpress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=21759B&labelColor=black&color=21759B)
-
-### I AM LEARNING (PRESENT)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=092E20&labelColor=black&color=092E20)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white&labelColor=black&color=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=005571&labelColor=black&color=005571)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=black&color=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=black&color=326CE5)
-
