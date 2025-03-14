@@ -12,7 +12,7 @@ yaroslavmaloshuk@gmail.com
 ![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=black&color=0A66C2)
 Yaroslav Maloshuk
 
-![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=6264A7&labelColor=black&color=6264A7)
 Microsoft Account: maloyarl@gmail.com
 Nickname: Yaroslav Maloshuk
 
@@ -28,7 +28,7 @@ Yaroslav Maloshuk
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=black&color=25D366)
 Yaroslav Maloshuk
 
-![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=flat&logo=zoom&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=zoom&logoColor=0B5CFF&labelColor=black&color=0B5CFF)
 Yaroslav Maloshuk
 
 ### QA Manual & Automation (2023.11.18 - Present)
