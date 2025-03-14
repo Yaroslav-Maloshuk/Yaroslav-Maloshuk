@@ -3,12 +3,33 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 
 📫 Reach me out!
 
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=black&color=EA4335)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white)
+YaurWall
+
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=black&color=EA4335) 
+yaroslavmaloshuk@gmail.com
+
 ![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=black&color=0A66C2)
+Yaroslav Maloshuk
+
+![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white)
+Microsoft Account: maloyarl@gmail.com
+Nickname: Yaroslav Maloshuk
+
 ![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=00AFF0&labelColor=black&color=00AFF0)
+Yaroslav Maloshuk
+
 ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=black&color=26A5E4) 
+@yaurwall
+
 ![Viber](https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=7360F2&labelColor=black&color=7360F2)
+Yaroslav Maloshuk
+
 ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=black&color=25D366)
+Yaroslav Maloshuk
+
+![Zoom](https://img.shields.io/badge/Zoom-0B5CFF?style=flat&logo=zoom&logoColor=white)
+Yaroslav Maloshuk
 
 ### QA Manual & Automation (2023.11.18 - Present)
 
