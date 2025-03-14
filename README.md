@@ -18,6 +18,7 @@ Yaroslav Maloshuk
 ![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=6264A7&labelColor=black&color=6264A7)
 
 Microsoft Account: maloyarl@gmail.com
+
 Nickname: Yaroslav Maloshuk
 
 ![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=00AFF0&labelColor=black&color=00AFF0)
