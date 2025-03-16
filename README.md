@@ -36,7 +36,7 @@ Nickname: Yaroslav Maloshuk
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&color=%231572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&color=F7DF1E)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&labelColor=black&color=346ac1)
-![XCode](https://img.shields.io/badge/XCode-007ACC?style=for-the-badge&logo=Xcode&labelColor=black&color=007ACC)
+![XCode](https://img.shields.io/badge/XCode-007ACC?style=for-the-badge&labelColor=black&color=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=for-the-badge&labelColor=black&color=3670A0)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&labelColor=black&color=100000)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&color=3670A0)
