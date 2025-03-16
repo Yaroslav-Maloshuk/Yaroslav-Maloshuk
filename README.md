@@ -3,7 +3,7 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 
 📫 Reach me out!
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat&logo=Codewars&logoColor=white) YaurWall
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=B1361E&labelColor=black&color=B1361E) YaurWall
 
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=black&color=EA4335) yaroslavmaloshuk@gmail.com
 
