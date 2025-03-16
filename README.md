@@ -1,7 +1,7 @@
 ### Hi, I am Yaroslav 👋
 I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technologies. 
 
-### QA Manual & Automation (2023.11.18 - Present)
+### QA Manual & Automation
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&labelColor=black&color=0052CC)
 ![Trello](https://shields.io/badge/Trello-blue?style=for-the-badge&labelColor=black&color=blue)
@@ -20,7 +20,7 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&labelColor=black&color=43B02A)
 ![Charles](https://img.shields.io/badge/Charles-F3F5F5?style=for-the-badge&labelColor=black&color=F3F5F5)
 
-### Python (2022 - Present) 
+### Python
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&color=3670A0)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&labelColor=black&color=092E20)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?&style=for-the-badge&labelColor=black&color=4DB33D)
