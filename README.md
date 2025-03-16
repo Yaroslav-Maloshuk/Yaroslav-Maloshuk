@@ -3,8 +3,6 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 
 📫 Reach me out!
 
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&labelColor=black&color=B1361E) YaurWall
-
 ![Microsoft Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&labelColor=black&color=6264A7) 
 
 Microsoft Account: maloyarl@gmail.com
