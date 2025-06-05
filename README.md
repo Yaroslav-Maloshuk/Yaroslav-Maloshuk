@@ -27,6 +27,7 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ### QA Automation
 ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&labelColor=black&color=D22128)
 ![Charles](https://img.shields.io/badge/Charles-F3F5F5?style=for-the-badge&labelColor=black&color=F3F5F5)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=0A9EDC&labelColor=black&color=0A9EDC)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&labelColor=black&color=43B02A)
 
 ### QA Mobile
