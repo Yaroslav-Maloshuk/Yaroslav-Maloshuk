@@ -2,6 +2,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&color=FF6C37)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&labelColor=black&color=85EA2D)
 
+### CI/CD
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&labelColor=black&color=23121011)
+
 ### Databases
 ![SQL](https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&labelColor=black&color=3670A0)
 
