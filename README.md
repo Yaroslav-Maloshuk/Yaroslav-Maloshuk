@@ -1,5 +1,5 @@
-### Hi, I am Yaroslav 👋
-I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technologies. 
+### Hi, I am Yaroslav Maloshuk 👋
+I am seeking for QA Manual internship/practice for free
 
 ### API
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&color=FF6C37)
