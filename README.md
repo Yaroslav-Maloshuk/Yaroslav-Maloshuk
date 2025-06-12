@@ -3,7 +3,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&labelColor=black&color=85EA2D)
 
 ### Databases
-![SQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=for-the-badge&labelColor=black&color=3670A0)
+![SQL](https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&labelColor=black&color=3670A0)
 
 ### FrontEnd
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&color=%23E34F26)
