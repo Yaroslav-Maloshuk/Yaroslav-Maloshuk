@@ -13,7 +13,7 @@
 ![Tilda](https://img.shields.io/badge/-Tilda-FFA282?style=for-the-badge&labelColor=black&color=FFA282)
 
 ### QA Automation
-![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=for-the-badge&labelColor=black&color=D22128)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&labelColor=black&color=D22128)
 ![Charles](https://img.shields.io/badge/Charles-F3F5F5?style=for-the-badge&labelColor=black&color=F3F5F5)
 
 ### Python
