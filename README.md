@@ -9,10 +9,10 @@ I am Yaroslav Maloshuk and also experienced both in Frontend and Backend technol
 ![SQL](https://img.shields.io/badge/PostgreSQL-3670A0?style=for-the-badge&labelColor=black&color=3670A0)
 
 ### FrontEnd
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&color=%231572B6)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&color=F24E1E)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&color=%23E34F26)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&color=%231572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&color=F7DF1E)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&color=F24E1E)
 ![Tilda](https://img.shields.io/badge/-Tilda-FFA282?style=for-the-badge&labelColor=black&color=FFA282)
 
 ### QA Automation
