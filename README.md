@@ -1,14 +1,18 @@
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&color=FF6C37)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&labelColor=black&color=85EA2D)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&labelColor=black&color=0D1117)
-![SQL](https://img.shields.io/badge/SQL-3670A0?style=for-the-badge&labelColor=black&color=3670A0)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&color=%23E34F26)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&color=%231572B6)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&labelColor=black&color=F7DF1E)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&color=F24E1E)
-![Tilda](https://img.shields.io/badge/-Tilda-FFA282?style=for-the-badge&labelColor=black&color=FFA282)
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&labelColor=black&color=D22128)
-![Charles](https://img.shields.io/badge/Charles-F3F5F5?style=for-the-badge&labelColor=black&color=F3F5F5)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&labelColor=black&color=3670A0)
+Hi! I’m Yaroslav Maloshuk, a highly motivated Manual QA Tester and 5th-semester student at Kyiv SUTE, studying Information Systems and Technologies.  
 
+I am passionate about **ensuring software quality**, finding bugs, and improving user experience. I have experience with:  
 
+- **Manual Testing:** Web and Mobile (Android/iOS)  
+- **API Testing:** Postman, Swagger  
+- **Database:** SQL (queries, data validation)
+- **Performance & Debugging:** JMeter, Charles  
+- **Frontend Basics:** HTML, CSS, JS  
+- **Design & Prototyping:** Figma, Tilda  
+- **Programming Fundamentals:** Python  
+
+I actively create **test cases, bug reports, and device testing documentation** to improve my QA skills and build a professional portfolio.  
+
+Check out my **QA Portfolio** repository for real examples of my work:  
+🔗 [QA-Portfolio](link-to-your-repo)
+
+I’m seeking **QA internships or freelance practice opportunities** to grow into a professional QA Engineer. Open to new challenges and eager to contribute to real projects.
