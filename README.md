@@ -13,6 +13,6 @@ I am passionate about **ensuring software quality**, finding bugs, and improving
 I actively create **test cases, bug reports, and device testing documentation** to improve my QA skills and build a professional portfolio.  
 
 Check out my **QA Portfolio** repository for real examples of my work:  
-🔗 [QA-Portfolio](link-to-your-repo)
+🔗 [QA-Portfolio](https://github.com/Yaroslav-Maloshuk/QA-Portfolio)
 
 I’m seeking **QA internships or freelance practice opportunities** to grow into a professional QA Engineer. Open to new challenges and eager to contribute to real projects.
