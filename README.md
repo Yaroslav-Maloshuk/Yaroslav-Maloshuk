@@ -9,7 +9,7 @@ I’ve written 300+ detailed test cases and reported 100+ verified bugs across A
 I work comfortably in Agile/Scrum environments, using tools like Jira, TestRail, Trello, Postman, Swagger, and Utest/Testbirds platforms for structured QA and bug tracking.
 
 🎓 Certified QA Engineer (IT Life Academy, Utest Academy – Manual QA Web & Mobile)
-🌎 Fluent in English (Advanced) – I communicate clearly and proactively.
+🌎 Fluent in English (Mastery) – I communicate clearly and proactively.
 
 Let’s make your product something your users trust and love to use.
 
