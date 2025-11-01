@@ -1,18 +1,18 @@
-Hi! I’m Yaroslav Maloshuk, a highly motivated Manual QA Tester and 5th-semester student at Kyiv SUTE, studying Information Systems and Technologies.  
+🔍 Your users don’t care about bugs — but I do.
+I’m a Manual QA Engineer who helps startups and product teams launch flawless, user-friendly web and mobile apps.
+My goal is simple: make your product stable, intuitive, and bug-free before release.
 
-I am passionate about **ensuring software quality**, finding bugs, and improving user experience. I have experience with:  
+Over the past year, I’ve tested 10+ open-source projects and participated in professional test cycles on Utest and Testbirds, gaining hands-on experience in functional, exploratory, regression, and usability testing.
 
-- **Manual Testing:** Web and Mobile (Android/iOS)  
-- **API Testing:** Postman, Swagger  
-- **Database:** SQL (queries, data validation)
-- **Performance & Debugging:** JMeter, Charles  
-- **Frontend Basics:** HTML, CSS, JS  
-- **Design & Prototyping:** Figma, Tilda  
-- **Programming Fundamentals:** Python  
+I’ve written 300+ detailed test cases and reported 100+ verified bugs across Android and iOS platforms — always with clear steps to reproduce, screenshots, and video evidence.
 
-I actively create **test cases, bug reports, and device testing documentation** to improve my QA skills and build a professional portfolio.  
+I work comfortably in Agile/Scrum environments, using tools like Jira, TestRail, Trello, Postman, Swagger, and Utest/Testbirds platforms for structured QA and bug tracking.
 
-Check out my **QA Portfolio** repository for real examples of my work:  
+🎓 Certified QA Engineer (IT Life Academy, Utest Academy – Manual QA Web & Mobile)
+🌎 Fluent in English (Advanced) – I communicate clearly and proactively.
+
+Let’s make your product something your users trust and love to use.
+
+Tech stack: Postman, Swagger, SQL, CI/CD, HTML, CSS, JS, Figma, Tilda, JMeter, Charles, Python, Android Studio, Xcode.
+
 🔗 [QA-Portfolio](https://github.com/Yaroslav-Maloshuk/QA-Portfolio)
-
-I’m seeking **QA internships or freelance practice opportunities** to grow into a professional QA Engineer. Open to new challenges and eager to contribute to real projects.
