@@ -15,4 +15,4 @@ Let’s make your product something your users trust and love to use.
 
 Tech stack: Postman, Swagger, SQL, CI/CD, HTML, CSS, JS, Figma, Tilda, JMeter, Charles, Python, Android Studio, Xcode.
 
-🔗 [QA-Portfolio](https://github.com/Yaroslav-Maloshuk/QA-Portfolio)
+🔗 []()
