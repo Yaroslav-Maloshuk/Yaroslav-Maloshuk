@@ -1,18 +1,19 @@
-🔍 Your users don’t care about bugs — but I do.
-I’m a Manual QA Engineer who helps startups and product teams launch flawless, user-friendly web and mobile apps.
-My goal is simple: make your product stable, intuitive, and bug-free before release.
-
-Over the past year, I’ve tested 10+ open-source projects and participated in professional test cycles on Utest and Testbirds, gaining hands-on experience in functional, exploratory, regression, and usability testing.
-
-I’ve written 300+ detailed test cases and reported 100+ verified bugs across Android and iOS platforms — always with clear steps to reproduce, screenshots, and video evidence.
-
-I work comfortably in Agile/Scrum environments, using tools like Jira, TestRail, Trello, Postman, Swagger, and Utest/Testbirds platforms for structured QA and bug tracking.
-
-🎓 Certified QA Engineer (IT Life Academy, Utest Academy – Manual QA Web & Mobile)
-🌎 Fluent in English (Mastery) – I communicate clearly and proactively.
-
-Let’s make your product something your users trust and love to use.
-
-Tech stack: Postman, Swagger, SQL, CI/CD, HTML, CSS, JS, Figma, Tilda, JMeter, Charles, Python, Android Studio, Xcode.
+🚀 I build fast, scalable, and crash-proof web applications.
+As a Full Stack Python Developer with a professional background in QA Automation, I don't just write code that "works"—I write code that lasts. I specialize in building high-performance backends using FastAPI (Asyncio) and robust web applications with Django, paired with modern, responsive frontends using TailwindCSS.
+If you need an MVP built from scratch or a complex API optimized for high loads—I am your guy.
+💎 Why clients choose me:
+    The "QA Mindset": My background in testing means fewer bugs in production. I write clean code covered by Pytest, so you don't waste budget on endless fixes.
+    Modern Python Stack: I use the latest tools (Pydantic, Loguru, Httpx) to ensure your app is fast and maintainable.
+    Full Cycle Delivery: From database design to Docker containerization and CI/CD deployment—I handle the entire pipeline.
+🛠 Technical Expertise:
+    Backend Core: Python (Asyncio), Django, Django REST Framework (DRF), FastAPI.
+    Data & Performance: SQL (PostgreSQL), NoSQL (MongoDB), Redis (Caching), Celery (Background Tasks).
+    Real-time: WebSockets for live notifications and chat features.
+    Frontend: HTML5, CSS3, TailwindCSS, JavaScript (creating clean, responsive UIs directly within Django/FastAPI templates).
+    DevOps & Tools: Docker, Git, GitHub Actions (CI/CD), Nginx.
+🌟 What I can build for you:
+    SaaS MVP: Complete web apps with user auth, payments, and dashboards.
+    REST APIs: Documented with Swagger/OpenAPI, ready for mobile or frontend integration.
+    Async Microservices: Using FastAPI and RabbitMQ/Redis for high-load processing.
 
 🔗 []()
