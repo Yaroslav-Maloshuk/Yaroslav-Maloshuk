@@ -16,4 +16,8 @@ If you need an MVP built from scratch or a complex API optimized for high loads�
     REST APIs: Documented with Swagger/OpenAPI, ready for mobile or frontend integration.<br>
     Async Microservices: Using FastAPI and RabbitMQ/Redis for high-load processing.<br>
 
-🔗 []()
+🔗 [Async Proxy](https://github.com/Yaroslav-Maloshuk/async_proxy)
+🔗 [Appointment System](https://github.com/Yaroslav-Maloshuk/appointment_system)
+🔗 [PDF Data Extraction Tool](https://github.com/Yaroslav-Maloshuk/pdf_data_extraction_tool)
+🔗 [Fintech Aggregator](https://github.com/Yaroslav-Maloshuk/fintech_aggregator)
+🔗 [Avia Tracker]()
