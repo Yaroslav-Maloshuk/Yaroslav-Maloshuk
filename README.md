@@ -14,7 +14,7 @@ If you need an MVP built from scratch or a complex API optimized for high loads�
 🌟 What I can build for you:<br>
     SaaS MVP: Complete web apps with user auth, payments, and dashboards.<br>
     REST APIs: Documented with Swagger/OpenAPI, ready for mobile or frontend integration.<br>
-    Async Microservices: Using FastAPI and RabbitMQ/Redis for high-load processing.<br>
+    Async Microservices: Using FastAPI and Redis for high-load processing.<br>
 
 🔗 [Async Proxy](https://github.com/Yaroslav-Maloshuk/async_proxy)<br>
 🔗 [Appointment System](https://github.com/Yaroslav-Maloshuk/appointment_system)<br>
