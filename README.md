@@ -1,4 +1,4 @@
-🚀 I build fast, scalable, and crash-proof web applications.
+🚀 I build fast, scalable, and crash-proof web applications. <br>
 As a Full Stack Python Developer with a professional background in QA Automation, I don't just write code that "works"—I write code that lasts. I specialize in building high-performance backends using FastAPI (Asyncio) and robust web applications with Django, paired with modern, responsive frontends using TailwindCSS.
 If you need an MVP built from scratch or a complex API optimized for high loads—I am your guy.
 💎 Why clients choose me:
