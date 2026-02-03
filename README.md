@@ -20,4 +20,4 @@ If you need an MVP built from scratch or a complex API optimized for high loads�
 🔗 [Appointment System](https://github.com/Yaroslav-Maloshuk/appointment_system)<br>
 🔗 [PDF Data Extraction Tool](https://github.com/Yaroslav-Maloshuk/pdf_data_extraction_tool)<br>
 🔗 [Fintech Aggregator](https://github.com/Yaroslav-Maloshuk/fintech_aggregator)<br>
-🔗 [Price Monitor]()
+🔗 [BookScout](https://github.com/Yaroslav-Maloshuk/book_scout)
