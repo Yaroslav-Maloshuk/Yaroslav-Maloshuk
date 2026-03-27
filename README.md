@@ -25,4 +25,5 @@ If you need a complex SaaS MVP, a real-time analytics dashboard, or a system to 
 🔗 [PDF Data Extraction Tool](https://github.com/Yaroslav-Maloshuk/pdf_data_extraction_tool)<br>
 🔗 [Fintech Aggregator](https://github.com/Yaroslav-Maloshuk/fintech_aggregator)<br>
 🔗 [BookScout](https://github.com/Yaroslav-Maloshuk/book_scout)<br>
-🔗 [DevPulse](https://github.com/Yaroslav-Maloshuk/devpulse)
+🔗 [DevPulse](https://github.com/Yaroslav-Maloshuk/devpulse)<br>
+🔗 [Rag Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)
