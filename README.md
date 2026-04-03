@@ -26,4 +26,5 @@ If you need a complex SaaS MVP, a real-time analytics dashboard, or a system to 
 🔗 [Fintech Aggregator](https://github.com/Yaroslav-Maloshuk/fintech_aggregator)<br>
 🔗 [BookScout](https://github.com/Yaroslav-Maloshuk/book_scout)<br>
 🔗 [DevPulse](https://github.com/Yaroslav-Maloshuk/devpulse)<br>
-🔗 [Rag Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)
+🔗 [Rag Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)<br>
+🔗 [AI Product Recommendation Engine](https://github.com/Yaroslav-Maloshuk/ai_product_recommendation_engine)
