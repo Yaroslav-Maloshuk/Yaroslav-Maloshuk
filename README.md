@@ -44,5 +44,5 @@ Data intelligence platforms<br>
 🔗 [Rag Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)<br>
 🔗 [AI Product Recommendation Engine](https://github.com/Yaroslav-Maloshuk/ai_product_recommendation_engine)<br>
 🔗 [AI Workflow Automation Builder](https://github.com/Yaroslav-Maloshuk/ai_workflow_automation_builder)<br>
-🔗 []()
+🔗 [AI Team Balancer]()
 
