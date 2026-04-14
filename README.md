@@ -1,32 +1,35 @@
-🚀 Full-Stack Python & Data Engineer | FastAPI, React, Scrapy & Node.js<br>
-I build fast, scalable, and crash-proof web applications and intelligent data pipelines.<br>
-As a Full Stack Python Developer with a professional background in QA Automation, I don't just write code that "works"—I write code that lasts. I specialize in building high-performance backends using FastAPI/Django, complex data scraping systems with Scrapy/Selenium, and modern, responsive frontends using React.js & TailwindCSS.<br>
-If you need a complex SaaS MVP, a real-time analytics dashboard, or a system to scrape hard-to-get data—I am your guy.<br>
-💎 Why clients choose me:<br>
-&emsp;The "QA Mindset": My background in testing means fewer bugs in production. I write clean code covered by Pytest, so you don't waste budget on endless fixes.<br>
-&emsp;Data-Driven Engineering: I don't just store data; I process it. Using Pandas & Numpy, I turn raw inputs into actionable business insights.<br>
-&emsp;Hybrid Scraping Strategy: I can bypass complex bot protections using a mix of Scrapy for speed and Selenium/Playwright for dynamic JS content.<br>
-&emsp;Full Cycle Delivery: From database design and Docker containerization to CI/CD deployment—I handle the entire pipeline.<br>
-🛠 Technical Expertise:<br>
-&emsp;Backend Core: Python (Asyncio), Django, DRF, FastAPI.<br>
-&emsp;Data Extraction (ETL): Scrapy, Selenium, BeautifulSoup, lxml.<br>
-&emsp;Data Analysis: Pandas, NumPy, Matplotlib (Data Cleaning & Statistical Analysis).<br>
-&emsp;Frontend & UI: React.js (Vite), TailwindCSS, JavaScript (ES6+), HTML5.<br>
-&emsp;Real-time & Microservices: Node.js (Socket.io), Redis (Pub/Sub & Caching), Celery.<br>
-&emsp;DevOps & Tools: Docker, Docker Compose, Nginx, Git, GitHub Actions.<br>
-🌟 What I can build for you:<br>
-&emsp;Data Mining Platforms: Automated scrapers that collect data from thousands of pages, clean it with Pandas, and store it in PostgreSQL/MongoDB.<br>
-&emsp;Real-Time Analytics Dashboards: Visualizing trends using React.js charts backed by Node.js WebSockets.<br>
-&emsp;SaaS MVP: Complete web apps with user auth, payments, and admin panels.<br>
-&emsp;High-Load APIs: Documented with Swagger/OpenAPI, optimized with Redis caching.
-
-🔗 [Async Proxy Fetcher](https://github.com/Yaroslav-Maloshuk/async_proxy)<br>
-🔗 [Appointment System](https://github.com/Yaroslav-Maloshuk/appointment_system)<br>
-🔗 [PDF Data Extraction Tool](https://github.com/Yaroslav-Maloshuk/pdf_data_extraction_tool)<br>
-🔗 [Fintech Aggregator](https://github.com/Yaroslav-Maloshuk/fintech_aggregator)<br>
-🔗 [BookScout](https://github.com/Yaroslav-Maloshuk/book_scout)<br>
-🔗 [DevPulse](https://github.com/Yaroslav-Maloshuk/devpulse)<br>
-🔗 [TravClan Bot](https://github.com/Yaroslav-Maloshuk/travclan_bot)<br>
-🔗 [Rag Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)<br>
-🔗 [AI Product Recommendation Engine](https://github.com/Yaroslav-Maloshuk/ai_product_recommendation_engine)<br>
-🔗 [AI Workflow Automation Builder](https://github.com/Yaroslav-Maloshuk/ai_workflow_automation_builder)
+AI Engineer | LLM & Machine Learning Systems | Python, PyTorch, FastAPI | AI Infrastructure
+I build production-ready AI systems, machine learning pipelines, and scalable backend architectures for data-driven products.
+As an AI Engineer with a strong Python backend background and experience in QA Automation, I focus on building reliable AI infrastructure — from data collection and preprocessing to model integration and scalable APIs. My work combines machine learning, large language models, and high-performance backend systems to create intelligent applications that operate reliably in production.
+I specialize in developing AI-powered services using Python, PyTorch, HuggingFace, and LangChain, while leveraging FastAPI and modern backend architectures to deploy models efficiently.
+Why clients and teams work with me
+Engineering reliability
+My QA automation background shapes how I build systems: testable architecture, automated testing with Pytest, and stable production deployments.
+AI system architecture
+I design full AI pipelines including data extraction, preprocessing, model inference, and scalable APIs.
+LLM and AI integrations
+I build applications powered by modern AI models using tools such as HuggingFace transformers, LangChain, and custom ML pipelines.
+Scalable backend for AI
+Using FastAPI, Redis, Celery, and containerized environments, I deploy AI services capable of handling production workloads.
+Technical expertise
+AI / Machine Learning
+Python, PyTorch, HuggingFace Transformers, LangChain, ML pipelines, model inference, data preprocessing.
+Backend systems
+FastAPI, Django, Django REST Framework, Async Python, API architecture.
+Data engineering
+Pandas, NumPy, ETL pipelines, large-scale data processing.
+Data extraction
+Scrapy, Selenium, Playwright, BeautifulSoup, automated data collection pipelines.
+Frontend
+React, TypeScript, TailwindCSS.
+Infrastructure
+Docker, Docker Compose, Redis, Celery, Nginx, CI/CD, GitHub Actions.
+Systems I build
+AI-powered applications
+ LLM integrations and intelligent assistants built with LangChain and HuggingFace.
+Machine learning pipelines
+ Data ingestion, preprocessing, training pipelines, and model deployment.
+AI APIs and microservices
+ FastAPI-based services exposing ML models with scalable inference endpoints.
+Data intelligence platforms
+ Automated systems that collect, process, and transform raw data into machine learning inputs and analytics.
