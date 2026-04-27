@@ -1,4 +1,3 @@
-I build AI-powered backends that scale | LangChain · FastAPI · Docker<br>
 Technical expertise:<br>
 AI / Machine Learning<br>
 Python, PyTorch, HuggingFace Transformers, LangChain, ML pipelines, model inference, data preprocessing.<br>
