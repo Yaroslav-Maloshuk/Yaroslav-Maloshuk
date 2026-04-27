@@ -1,17 +1,5 @@
-AI Engineer | LLM & Machine Learning Systems | Python, PyTorch, FastAPI | AI Infrastructure<br>
-I build production-ready AI systems, machine learning pipelines, and scalable backend architectures for data-driven products.<br>
-As an AI Engineer with a strong Python backend background and experience in QA Automation, I focus on building reliable AI infrastructure — from data collection and preprocessing to model integration and scalable APIs. My work combines machine learning, large language models, and high-performance backend systems to create intelligent applications that operate reliably in production.<br>
-I specialize in developing AI-powered services using Python, PyTorch, HuggingFace, and LangChain, while leveraging FastAPI and modern backend architectures to deploy models efficiently.<br>
-Why clients and teams work with me<br>
-Engineering reliability<br>
-My QA automation background shapes how I build systems: testable architecture, automated testing with Pytest, and stable production deployments.<br>
-AI system architecture<br>
-I design full AI pipelines including data extraction, preprocessing, model inference, and scalable APIs.<br>
-LLM and AI integrations<br>
-I build applications powered by modern AI models using tools such as HuggingFace transformers, LangChain, and custom ML pipelines.<br>
-Scalable backend for AI<br>
-Using FastAPI, Redis, Celery, and containerized environments, I deploy AI services capable of handling production workloads.
-Technical expertise<br>
+I build AI-powered backends that scale | LangChain · FastAPI · Docker<br>
+Technical expertise:<br>
 AI / Machine Learning<br>
 Python, PyTorch, HuggingFace Transformers, LangChain, ML pipelines, model inference, data preprocessing.<br>
 Backend systems<br>
