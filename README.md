@@ -1,26 +1,18 @@
-I build AI-powered backends that scale | PyTorch · LangChain · FastAPI · Docker<br>
-Technical expertise:<br>
-AI / Machine Learning<br>
-Python, PyTorch, HuggingFace Transformers, LangChain, ML pipelines, model inference, data preprocessing.<br>
-Backend systems<br>
-FastAPI, Django, Django REST Framework, Async Python, API architecture.<br>
-Data engineering<br>
-Pandas, NumPy, ETL pipelines, large-scale data processing.<br>
-Data extraction<br>
-Scrapy, Selenium, Playwright, BeautifulSoup, automated data collection pipelines.<br>
-Frontend<br>
-React, TypeScript, TailwindCSS.<br>
-Infrastructure<br>
-Docker, Docker Compose, Redis, Celery, Nginx, CI/CD, GitHub Actions.<br>
-Systems I build<br>
-AI-powered applications<br>
- LLM integrations and intelligent assistants built with LangChain and HuggingFace.<br>
-Machine learning pipelines<br>
- Data ingestion, preprocessing, training pipelines, and model deployment.<br>
-AI APIs and microservices<br>
- FastAPI-based services exposing ML models with scalable inference endpoints.<br>
-Data intelligence platforms<br>
- Automated systems that collect, process, and transform raw data into machine learning inputs and analytics.<br>
+I build async, containerized AI systems in Python — RAG pipelines, LLM integrations, agentic workflows, and real-time data platforms.
+My background in QA automation shapes how I architect everything: testable, observable, and built to run without babysitting. I don't just wire up APIs — I think about failure modes, retry logic, and what happens at scale.
+Recent systems I've built:
+— 7-stage RAG chatbot with hybrid retrieval (pgvector + BM25), cross-encoder reranking, and SSE streaming
+— Agentic workflow automation platform with Celery, HuggingFace AI functions, and multi-channel delivery
+— Real-time fintech aggregator with Circuit Breaker pattern and Redis Pub/Sub, zero blocking I/O
+— Distributed scraping + trend analytics platform across 5 Docker microservices
+All projects are open-source on GitHub with full architecture documentation.
+Technical stack:
+AI/ML — PyTorch, HuggingFace Transformers, LangChain, sentence-transformers, pgvector, BM25
+Backend — FastAPI, Django, DRF, Async Python, WebSockets
+Data — Pandas, NumPy, Scrapy, Selenium, Playwright, ETL pipelines
+Infrastructure — Docker, Redis, Celery, Nginx, GitHub Actions
+Frontend — React, TypeScript, TailwindCSS
+Currently open to Senior AI Engineer roles and serious product teams building with LLMs.<br>
 
 🔗 [Async Proxy Fetcher](https://github.com/Yaroslav-Maloshuk/async_proxy)<br>
 🔗 [Appointment System](https://github.com/Yaroslav-Maloshuk/appointment_system)<br>
