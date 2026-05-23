@@ -20,7 +20,6 @@ Currently open to Senior AI Engineer roles and serious product teams building wi
 🔗 [Fintech Aggregator](https://github.com/Yaroslav-Maloshuk/fintech_aggregator)<br>
 🔗 [BookScout](https://github.com/Yaroslav-Maloshuk/book_scout)<br>
 🔗 [DevPulse](https://github.com/Yaroslav-Maloshuk/devpulse)<br>
-🔗 [TravClan Bot](https://github.com/Yaroslav-Maloshuk/travclan_bot)<br>
 🔗 [RAG Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)<br>
 🔗 [AI Product Recommendation Engine](https://github.com/Yaroslav-Maloshuk/ai_product_recommendation_engine)<br>
 🔗 [AI Workflow Automation Builder](https://github.com/Yaroslav-Maloshuk/ai_workflow_automation_builder)<br>
