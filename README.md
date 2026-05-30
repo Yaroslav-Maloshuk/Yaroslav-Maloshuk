@@ -23,5 +23,6 @@ Currently open to Senior AI Engineer roles and serious product teams building wi
 🔗 [RAG Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)<br>
 🔗 [AI Product Recommendation Engine](https://github.com/Yaroslav-Maloshuk/ai_product_recommendation_engine)<br>
 🔗 [AI Workflow Automation Builder](https://github.com/Yaroslav-Maloshuk/ai_workflow_automation_builder)<br>
+🔗 [AI Team Balancer](https://github.com/juttto/AI-Team-Balancer) (Sigma Software Ideathon Project)<br>
 🔗 [Flowers Classification with ResNet18](https://github.com/Yaroslav-Maloshuk/kaggle_flowers_classification)<br>
 🔗 [German Traffic Sign Recognition — CNN from Scratch](https://github.com/Yaroslav-Maloshuk/kaggle_gtsrb_german_traffic_sign)<br>
