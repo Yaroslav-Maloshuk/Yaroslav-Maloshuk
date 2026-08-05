@@ -14,7 +14,7 @@ AI Engineer with a strong background in QA automation. Design, build, and deploy
 🔗 [AI Team Balancer](https://github.com/juttto/AI-Team-Balancer) (Sigma Software Ideathon Project April 2026)<br>
 🔗 [SoftServe AI Fundamentals Course Final Project July 2026](https://github.com/Yaroslav-Maloshuk/softserve-final-project)
 
-**Data Science/ML**:
+**Data Science/ML**: <br>
 🔗 [Flowers Classification with ResNet18](https://github.com/Yaroslav-Maloshuk/kaggle_flowers_classification)<br>
 🔗 [German Traffic Sign Recognition — CNN from Scratch](https://github.com/Yaroslav-Maloshuk/kaggle_gtsrb_german_traffic_sign)<br>
 
