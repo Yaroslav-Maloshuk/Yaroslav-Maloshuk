@@ -16,7 +16,7 @@ Currently open to Senior AI Engineer roles and serious product teams building wi
 
 🔗 [Appointment System](https://github.com/Yaroslav-Maloshuk/appointment_system)<br>
 🔗 [PDF Data Extraction Tool](https://github.com/Yaroslav-Maloshuk/pdf_data_extraction_tool)<br>
-🔗 [Fintech Aggregator](https://github.com/Yaroslav-Maloshuk/fintech_aggregator)<br> (Temporarily Unavailable)
+🔗 [Fintech Aggregator](https://github.com/Yaroslav-Maloshuk/fintech_aggregator) (Temporarily Unavailable)<br> 
 🔗 [BookScout](https://github.com/Yaroslav-Maloshuk/book_scout)<br>
 🔗 [DevPulse](https://github.com/Yaroslav-Maloshuk/devpulse)<br>
 🔗 [RAG Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)<br>
