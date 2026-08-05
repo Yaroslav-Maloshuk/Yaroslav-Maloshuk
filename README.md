@@ -1,18 +1,10 @@
-I build async, containerized AI systems in Python — RAG pipelines, LLM integrations, agentic workflows, and real-time data platforms.
-My background in QA automation shapes how I architect everything: testable, observable, and built to run without babysitting. I don't just wire up APIs — I think about failure modes, retry logic, and what happens at scale.
-Recent systems I've built:
-— 7-stage RAG chatbot with hybrid retrieval (pgvector + BM25), cross-encoder reranking, and SSE streaming
-— Agentic workflow automation platform with Celery, HuggingFace AI functions, and multi-channel delivery
-— Real-time fintech aggregator with Circuit Breaker pattern and Redis Pub/Sub, zero blocking I/O
-— Distributed scraping + trend analytics platform across 5 Docker microservices
-All projects are open-source on GitHub with full architecture documentation.
-Technical stack:
-AI/ML — PyTorch, HuggingFace Transformers, LangChain, sentence-transformers, pgvector, BM25
-Backend — FastAPI, Django, DRF, Async Python, WebSockets
-Data — Pandas, NumPy, Scrapy, Selenium, Playwright, ETL pipelines
-Infrastructure — Docker, Redis, Celery, Nginx, GitHub Actions
-Frontend — React, TypeScript, TailwindCSS
-Currently open to Senior AI Engineer roles and serious product teams building with LLMs.<br>
+**SUMMARY** <br>
+AI Engineer with a strong background in QA automation. Design, build, and deploy production-ready, async, and containerized AI systems: production-grade RAG pipelines with hybrid retrieval, multi-agent workflows, and real-time data streaming platforms. Leverage QA expertise to ensure high testability, absolute system observability, and robust failure-mode handling under heavy production scale.
+**TECHNICAL SKILLS** <br>
+**AI & LLM Infrastructure**: Python, PyTorch, HuggingFace Transformers, LangChain, LlamaIndex, LLM APIs, sentence-transformers, pgvector, BM25, RAG Architecture, Agentic Workflows. <br>
+**Backend & Async**: FastAPI, Django, Django REST Framework (DRF), Asyncio, WebSockets, SSE (Server-Sent Events). <br>
+**Data & Infrastructure**: Docker, Docker Compose, Redis, Celery, Nginx, PostgreSQL, MongoDB, Pandas, NumPy, Scrapy, Selenium, Playwright, ETL pipelines. <br>
+**Frontend & Testing**: React, TypeScript, TailwindCSS, Pytest, Test-Driven Development (TDD), Postman, GitHub Actions (CI/CD). <br>
 
 🔗 [Appointment System](https://github.com/Yaroslav-Maloshuk/appointment_system)<br>
 🔗 [PDF Data Extraction Tool](https://github.com/Yaroslav-Maloshuk/pdf_data_extraction_tool)<br>
