@@ -6,7 +6,7 @@ AI Engineer with a strong background in QA automation. Design, build, and deploy
 **Data & Infrastructure**: Docker, Docker Compose, Redis, Celery, Nginx, PostgreSQL, MongoDB, Pandas, NumPy, Scrapy, Selenium, Playwright, ETL pipelines. <br> <br>
 **Frontend & Testing**: React, TypeScript, TailwindCSS, Pytest, Test-Driven Development (TDD), Postman, GitHub Actions (CI/CD). <br>
 
-**AI Engineering / Software Development**:
+**AI Engineering / Software Development**: <br>
 🔗 [AI Workflow Automation Builder](https://github.com/Yaroslav-Maloshuk/ai_workflow_automation_builder) (Temporarily Unavailable)<br>
 🔗 [RAG Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)<br>
 🔗 [Autonomous FinTech Market Intellect](https://github.com/Yaroslav-Maloshuk/fintech_aggregator) (Temporarily Unavailable)<br> 
