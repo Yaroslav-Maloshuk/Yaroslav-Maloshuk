@@ -1,10 +1,10 @@
 **SUMMARY** <br>
-AI Engineer with a strong background in QA automation. Design, build, and deploy production-ready, async, and containerized AI systems: production-grade RAG pipelines with hybrid retrieval, multi-agent workflows, and real-time data streaming platforms. Leverage QA expertise to ensure high testability, absolute system observability, and robust failure-mode handling under heavy production scale.
+AI Engineer with a strong background in QA automation. Design, build, and deploy production-ready, async, and containerized AI systems: production-grade RAG pipelines with hybrid retrieval, multi-agent workflows, and real-time data streaming platforms. Leverage QA expertise to ensure high testability, absolute system observability, and robust failure-mode handling under heavy production scale. <br> <br>
 **TECHNICAL SKILLS** <br>
-**AI & LLM Infrastructure**: Python, PyTorch, HuggingFace Transformers, LangChain, LlamaIndex, LLM APIs, sentence-transformers, pgvector, BM25, RAG Architecture, Agentic Workflows. <br>
-**Backend & Async**: FastAPI, Django, Django REST Framework (DRF), Asyncio, WebSockets, SSE (Server-Sent Events). <br>
-**Data & Infrastructure**: Docker, Docker Compose, Redis, Celery, Nginx, PostgreSQL, MongoDB, Pandas, NumPy, Scrapy, Selenium, Playwright, ETL pipelines. <br>
-**Frontend & Testing**: React, TypeScript, TailwindCSS, Pytest, Test-Driven Development (TDD), Postman, GitHub Actions (CI/CD). <br>
+**AI & LLM Infrastructure**: Python, PyTorch, HuggingFace Transformers, LangChain, LlamaIndex, LLM APIs, sentence-transformers, pgvector, BM25, RAG Architecture, Agentic Workflows. <br> <br>
+**Backend & Async**: FastAPI, Django, Django REST Framework (DRF), Asyncio, WebSockets, SSE (Server-Sent Events). <br> <br>
+**Data & Infrastructure**: Docker, Docker Compose, Redis, Celery, Nginx, PostgreSQL, MongoDB, Pandas, NumPy, Scrapy, Selenium, Playwright, ETL pipelines. <br> <br>
+**Frontend & Testing**: React, TypeScript, TailwindCSS, Pytest, Test-Driven Development (TDD), Postman, GitHub Actions (CI/CD). <br> <br>
 
 🔗 [Appointment System](https://github.com/Yaroslav-Maloshuk/appointment_system)<br>
 🔗 [PDF Data Extraction Tool](https://github.com/Yaroslav-Maloshuk/pdf_data_extraction_tool)<br>
