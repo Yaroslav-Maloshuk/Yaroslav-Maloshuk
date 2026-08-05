@@ -7,6 +7,8 @@ AI Engineer with a strong background in QA automation. Design, build, and deploy
 **Frontend & Testing**: React, TypeScript, TailwindCSS, Pytest, Test-Driven Development (TDD), Postman, GitHub Actions (CI/CD). <br> <br>
 
 **PROFESSIONAL EXPERIENCE** <br>
+**QA Engineering**: <br>
+🔗 [QA Portfolio](https://github.com/Yaroslav-Maloshuk/QA-Portfolio) <br>
 
 **AI Engineering / Software Development**: <br>
 🔗 [AI Workflow Automation Builder](https://github.com/Yaroslav-Maloshuk/ai_workflow_automation_builder) (Temporarily Unavailable)<br>
