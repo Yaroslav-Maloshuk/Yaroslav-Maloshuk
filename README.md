@@ -4,7 +4,9 @@ AI Engineer with a strong background in QA automation. Design, build, and deploy
 **AI & LLM Infrastructure**: Python, PyTorch, HuggingFace Transformers, LangChain, LlamaIndex, LLM APIs, sentence-transformers, pgvector, BM25, RAG Architecture, Agentic Workflows. <br> <br>
 **Backend & Async**: FastAPI, Django, Django REST Framework (DRF), Asyncio, WebSockets, SSE (Server-Sent Events). <br> <br>
 **Data & Infrastructure**: Docker, Docker Compose, Redis, Celery, Nginx, PostgreSQL, MongoDB, Pandas, NumPy, Scrapy, Selenium, Playwright, ETL pipelines. <br> <br>
-**Frontend & Testing**: React, TypeScript, TailwindCSS, Pytest, Test-Driven Development (TDD), Postman, GitHub Actions (CI/CD). <br>
+**Frontend & Testing**: React, TypeScript, TailwindCSS, Pytest, Test-Driven Development (TDD), Postman, GitHub Actions (CI/CD). <br> <br>
+
+**PROFESSIONAL EXPERIENCE** <br>
 
 **AI Engineering / Software Development**: <br>
 🔗 [AI Workflow Automation Builder](https://github.com/Yaroslav-Maloshuk/ai_workflow_automation_builder) (Temporarily Unavailable)<br>
