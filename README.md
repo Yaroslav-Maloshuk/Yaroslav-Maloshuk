@@ -14,7 +14,6 @@ Infrastructure — Docker, Redis, Celery, Nginx, GitHub Actions
 Frontend — React, TypeScript, TailwindCSS
 Currently open to Senior AI Engineer roles and serious product teams building with LLMs.<br>
 
-🔗 [Async Proxy Fetcher](https://github.com/Yaroslav-Maloshuk/async_proxy)<br>
 🔗 [Appointment System](https://github.com/Yaroslav-Maloshuk/appointment_system)<br>
 🔗 [PDF Data Extraction Tool](https://github.com/Yaroslav-Maloshuk/pdf_data_extraction_tool)<br>
 🔗 [Fintech Aggregator](https://github.com/Yaroslav-Maloshuk/fintech_aggregator)<br>
@@ -22,7 +21,7 @@ Currently open to Senior AI Engineer roles and serious product teams building wi
 🔗 [DevPulse](https://github.com/Yaroslav-Maloshuk/devpulse)<br>
 🔗 [RAG Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)<br>
 🔗 [AI Product Recommendation Engine](https://github.com/Yaroslav-Maloshuk/ai_product_recommendation_engine)<br>
-🔗 [AI Workflow Automation Builder](https://github.com/Yaroslav-Maloshuk/ai_workflow_automation_builder)<br>
+🔗 [AI Workflow Automation Builder (Temporarily Unavailable)](https://github.com/Yaroslav-Maloshuk/ai_workflow_automation_builder)<br>
 🔗 [AI Team Balancer](https://github.com/juttto/AI-Team-Balancer) (Sigma Software Ideathon Project April 2026)<br>
 🔗 [Flowers Classification with ResNet18](https://github.com/Yaroslav-Maloshuk/kaggle_flowers_classification)<br>
 🔗 [German Traffic Sign Recognition — CNN from Scratch](https://github.com/Yaroslav-Maloshuk/kaggle_gtsrb_german_traffic_sign)<br>
