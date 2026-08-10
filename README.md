@@ -11,7 +11,7 @@ AI Engineer with a strong background in QA automation. Design, build, and deploy
 🔗 [QA Portfolio](https://github.com/Yaroslav-Maloshuk/QA-Portfolio) <br>
 
 **AI Engineering / Software Development**: <br>
-🔗 [AI Workflow Automation Builder](https://github.com/Yaroslav-Maloshuk/ai_workflow_automation_builder) (Temporarily Unavailable)<br>
+🔗 [Multi-Agent Automated SRE Workspace](https://github.com/Yaroslav-Maloshuk/multi-agent-automated-sre)<br>
 🔗 [RAG Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)<br>
 🔗 [Autonomous FinTech Market Intellect](https://github.com/Yaroslav-Maloshuk/fintech_aggregator) (Temporarily Unavailable)<br> 
 🔗 [AI Product Recommendation Engine](https://github.com/Yaroslav-Maloshuk/ai_product_recommendation_engine)<br>
