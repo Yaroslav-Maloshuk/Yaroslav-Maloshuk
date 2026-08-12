@@ -8,9 +8,8 @@ High-Performance AI Systems Engineer with a strong background in QA automation. 
 
 **PROFESSIONAL EXPERIENCE** <br>
 **Full Stack AI Engineering / Software Development**: <br>
-🔗 [Multi-Agent Automated SRE Workspace](https://github.com/Yaroslav-Maloshuk/multi-agent-automated-sre)<br>
-🔗 [RAG Chatbot](https://github.com/Yaroslav-Maloshuk/rag_chatbot)<br>
-🔗 [Autonomous FinTech Market Intellect](https://github.com/Yaroslav-Maloshuk/fintech_aggregator) (Temporarily Unavailable)<br> 
+🔗 [Multi-Agent Automated SRE Workspace](https://github.com/Yaroslav-Maloshuk/multi-agent-automated-sre) (Temporarily Unavailable) <br> 
+🔗 [Local Perplexity]()<br>
 🔗 [AI Team Balancer](https://github.com/juttto/AI-Team-Balancer) (Sigma Software Ideathon Project April 2026)<br>
 
 
