@@ -4,7 +4,7 @@ High-Performance AI Infrastructure Engineer specializing in cutting GPU cloud co
 **AI & LLM Infrastructure**: Candle (Rust-native ML), vLLM, LiteLLM, Instructor, DSPy, Outlines, Ray Serve, LLM APIs, sentence-transformers, Qdrant, LanceDB, SQLite + PageIndex (Vectorless RAG), Chonkie, Microservices NATS (Agentic Workflows), RAGAS. <br> <br>
 **Backend, Concurrency & Languages**: Golang (Goroutines/Channels), Python, Rust (Tokio), FastAPI, WebSockets, SSE (Server-Sent Events), Go/SQL. <br> <br>
 **Data, Networking & Infrastructure**: Docker, Docker Compose, NATS, Pingora, Valkey, PostgreSQL, DuckDB, Crawl4AI, ETL pipelines. <br> <br> 
-**Frontend, Mobile & Testing**: Templ + HTMX, React Native, TypeScript, TailwindCSS, Wails, Pytest, BDD, TDD, Postman, GitHub Actions (CI/CD), Ruff. <br> <br>
+**Frontend, Mobile & Testing**: Templ + HTMX, TypeScript, TailwindCSS, Pytest, BDD, TDD, Postman, GitHub Actions (CI/CD), Ruff. <br> <br>
 
 **PROFESSIONAL EXPERIENCE** <br>
 **Full Stack AI Engineering / Software Development**: <br>
