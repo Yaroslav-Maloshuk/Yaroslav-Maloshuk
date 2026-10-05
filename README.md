@@ -1,5 +1,5 @@
 **SUMMARY** <br>
-High-Performance AI Solutions Engineer leveraging deep expertise in Machine Learning, Full-Stack architectures, and QA Automation to design, deploy, and scale intelligent software systems for global markets.<br>
+High-Performance AI Solutions Engineer and Technical Generalist leveraging a comprehensive 5-year background spanning Machine Learning, Full-Stack architectures, and QA Automation to design, deploy, and scale intelligent software systems for global markets.<br>
 Core Technical Matrix I bring to projects:<br>
 • AI Engineering & Vector Ops: Implementing complex, context-aware AI agents and orchestration graphs via LangChain, LangGraph, and LlamaIndex. Architecting low-latency retrieval pipelines with Qdrant, Pinecone, and ChromaDB.<br>
 • Machine Learning / Data Pipelines: Developing predictive models and data-driven solutions utilizing PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, and LightGBM. Building end-to-end ETL frameworks with Pandas and NumPy.<br>
